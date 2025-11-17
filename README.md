@@ -1,7 +1,7 @@
 # Exploración y análisis del comportamiento de clientes en un programa de lealtad de una aerolínea.
 ## Python. Pandas. Matplotlib. Seaborn. Estadística descriptiva. Estadística inferencial.
 
-Prueba técnica  realizada por **Ana Dueñas** en el **Bootcamp de Análisis de Datos de Adalab (Octubre 2025)**.
+Proyecto desarrollado por **Ana Dueñas** , **Adalab**, Octubre 2025.
 
 ---
 
