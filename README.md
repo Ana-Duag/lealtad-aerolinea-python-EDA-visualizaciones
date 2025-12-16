@@ -47,7 +47,7 @@ Con el dataset ya consolidado y transformado, se han realizado visualizaciones m
 ---
 
 
-## 5. Bonus. Estadística Inferencial
+### 5. Estadística Inferencial
 
 Utilizando el dataset limpio, se ha buscado evaluar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes. Teniendo en cuenta que los datos son sólo una muestra de una población. Los pasos seguidos han sido:
 
