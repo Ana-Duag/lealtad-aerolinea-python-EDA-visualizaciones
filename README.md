@@ -1,7 +1,7 @@
 # Exploración y análisis del comportamiento de clientes en un programa de lealtad de una aerolínea.
 ## Python. Pandas. Matplotlib. Seaborn. Estadística descriptiva. Estadística inferencial.
 
-### Proyecto desarrollado por **Ana Dueñas**, Octubre 2025.
+### Proyecto desarrollado por **Ana Dueñas Agudo**, Octubre 2025.
 
 ---
 
@@ -10,15 +10,15 @@
 
 Antes de proceder a explicar en qué consiste la prueba y cómo se ha desarrollado, se ha considerado imprescindible mostrar el orden en que deben visualizarse los archivos pues **llevan una secuencia lógica en base a cómo se ha ido desarollando dicha prueba**. Se ha hecho de esta forma para evitar bloqueos De VS Code en la ejecución de los archivos.
 
-1. **Archivo_1_EDA_analisis**. 
+1. **EDA-archivo1**. 
 
-2. **Archivo_2_union_conjunto**. Con este archivo se genera un csv denominado **"union_conjunto.csv"**.
+2. **Union-datasets-archivo2**. Con este archivo se genera un csv denominado **"union_conjunto.csv"**.
 
-3. **Archivo_3_nulos_grafs_bonus**. 
+3. **Graficos-archivo3**. 
 
 --- 
 
-## Desarrollo Prueba Técnica
+## Desarrollo 
 
 ### 1. Análisis Exploratorio de Datos (EDA).
 
